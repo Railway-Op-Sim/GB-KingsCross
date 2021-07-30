@@ -1,5 +1,5 @@
 # UK-King's Cross
-![Kings Cross](../Images/KingsCross.jpg)
+![Kings Cross](Images/KingsCross.jpg)
 
 A contributor named SMG4 submitted this railway several years ago but publication awaited a timetable. Unfortunately no timetable was submitted so it was left for a long time gathering dust.  It was a detailed and impressive layout so on rediscovering it recently it seemed appropriate to resurrect and update it in line with the current track layout, and develop a timetable for it.
 
