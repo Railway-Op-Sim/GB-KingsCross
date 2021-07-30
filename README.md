@@ -27,7 +27,7 @@ Operation is quite intense most of the time - it isn't a railway for the faint-h
 
 ## Data Sources
 
-- SMG4 original railway layout
+- SMG4 original railway build
 - [RealTimeTrains](www.realtimetrains.co.uk)
 - London North Eastern Sectional Appendix June 2021
 - Status icons by Freepik, pixelmeetup, Pixel Perfect on FlatIcon.com
