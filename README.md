@@ -22,7 +22,7 @@ Operation is quite intense most of the time - it isn't a railway for the faint-h
 | Distances | <img src="https://image.flaticon.com/icons/svg/1632/1632596.svg" height="24"> |
 | Timetable | <img src="https://image.flaticon.com/icons/svg/1632/1632596.svg" height="24"> |
 | Documentation | <img src="https://image.flaticon.com/icons/svg/1632/1632596.svg" height="24"> |
-| Testing | <img src="https://image.flaticon.com/icons/svg/390/390914.svg" height="24"> |
+| Testing | <img src="https://image.flaticon.com/icons/svg/1632/1632596.svg" height="24"> |
 
 
 ## Data Sources
