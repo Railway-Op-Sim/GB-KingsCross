@@ -1,0 +1,9 @@
+rly_file = "Kings Cross.rly"
+ttb_files = [ "Kings Cross.ttb",]
+ssn_files = [ "Kings Cross preset routes.ssn",]
+country_code = "GB"
+name = "London King's Cross"
+description = "Simulation of King's Cross railway station in London including lines to Moorgate, Biggleswade and Royston"
+display_name = "London King's Cross"
+author = "SMG4"
+contributors = [ "Albert Ball",]
